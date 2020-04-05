@@ -1,0 +1,32 @@
+body {
+  background-color:lavender;
+}
+
+hr {
+  background-color: lavender;
+  border-style: dotted none none;
+  border-color: #00bdaa;
+  border-width: 10px;
+  align: center;
+  width: 8%;
+}
+
+h1 {
+  color: blueviolet;
+  font-family: 'Great Vibes', cursive;
+}
+
+h3 {
+  color: blueviolet;
+}
+
+table {
+  border-collapse: collapse;
+  border-color: #00bdaa;
+}
+
+.mytable {
+  border-style: hidden none;
+  border-color: #00bdaa;
+
+}
